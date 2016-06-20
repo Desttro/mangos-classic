@@ -649,7 +649,7 @@ diff -ruN mangos-classic/mangos_botguy.sql portalclassic/mangos_botguy.sql
 --- mangos-classic/mangos_botguy.sql	1970-01-01 01:00:00.000000000 +0100
 +++ portalclassic/mangos_botguy.sql	2016-06-20 09:28:56.000000000 +0200
 @@ -0,0 +1 @@
-+INSERT INTO `gossip_menu_option` VALUES('0','16','0','GOSSIP_OPTION_BOT','99','1','0','0','0','0','0',NULL,'0','0','0','0','0','0','0','0','0');
++INSERT INTO `gossip_menu_option` VALUES('0','16','0','GOSSIP_OPTION_BOT','99','1','0','0','0','0','0',NULL,'0');
 diff -ruN mangos-classic/sql/playerbotai/playerbotai_characters_svdata_001.sql portalclassic/sql/playerbotai/playerbotai_characters_svdata_001.sql
 --- mangos-classic/sql/playerbotai/playerbotai_characters_svdata_001.sql	1970-01-01 01:00:00.000000000 +0100
 +++ portalclassic/sql/playerbotai/playerbotai_characters_svdata_001.sql	2016-06-20 09:28:57.000000000 +0200
